@@ -1,0 +1,101 @@
+{
+  "carousel": [
+    {
+      "id": 1,
+      "name": "bread-and-fruit-dish-on-a-table.jpg",
+      "title": "The great Wave"
+    },
+    { "id": 2, "name": "crucifixion.jpg", "title": "The mount fuji" },
+    { "id": 3, "name": "man-with-a-pipe.jpg", "title": "The beach" }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "img": "ma-jolie.jpg",
+      "name": "Ma Jolie",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "slug": "ma-jolie",
+      "content": " Ma Jolie (My pretty girl) was the refrain of a popular song performed at a Parisian music hall Picasso frequented. The artist suggests this musical association by situating a treble clef and music staff near the bold, stenciled letters. Ma Jolie was also Picasso's nickname for his lover Marcelle Humbert, whose figure he loosely built using the signature shifting planes of Analytic Cubism."
+    },
+    {
+      "id": 2,
+      "img": "man-with-a-pipe.jpg",
+      "name": "Man with a Pipe",
+      "excerpt": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "slug": "man-with-a-pipe",
+      "content": " The year 1915 was a somber one, with the impact of World War One being felt in France and most men joining up, including Georges Braque, who was seriously injured, and fellow painter Andre Derain (1880-1954). Picasso was viewed with suspicion by contemporary society as he was young and healthy yet did not go to fight; in fact he demonstrated considerable ambivalence in his attitude to the war, especially with his obvious close connections to his main art dealer, the Paris-based German, Daniel-Henry Kahnweiler.However, this large canvas, 130 x 90 cm (52 x 36 in), has a quiet humor and feeling of composure. The use of Pointillist-style dots, with their stippled effect and the inclusion of a painted marble-effect herald Picasso's return to color exploration and his interest in the development of interior design processes. The incorporation of frieze-like techniques, with areas of architectural scrolling, creates a sense of movement to oppose the tension of the solid piling up of the angular blocks. These techniques also connote the curling of smoke from the pipe in the bottom right of the picture. The experimental return to Naturalism filters through in this painting with the half-figurative face, hands and waistcoat fragment, though with comic intent. The artist's sense of humor is apparent in the jigsaw compilations of the face, whose bizarre, textured overlays create the nose, mustache and mouth so that a bird-shape appears. Picasso was moving away from Cubism, as seen in Man with a Guitar (1911). Surrealism was beckoning. "
+    },
+    {
+      "id": 3,
+      "img": "maya-with-her-doll.jpg",
+      "name": "Maya with her Doll",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "maya-with-her-doll",
+      "content": " As daughter Maya plays with her doll, adoring father Picasso plays with his latest artistic processing of space and colour. The plastic phase of figurative distortion is continued, while the characteristics of the face are pushed and remolded, as though constructed from modeling clay. As always, Picasso's sense of fun and humor surface: the doll has the real face, whereas that of the child is surreal, a beautiful juxtaposition. Both heads are absurdly enlarged compared to the rest of the body. The doll's eyes match Maia's outfit and Maya's match the doll's sailor's costume, and so the child is interchangeable with the doll.The doll is probably a bizarre signifier for Picasso the father, who as a child was also pictured dressed in such an outfit. In the same way, Picasso was interchangeable with his son Paulo in the harlequin costume in his portrait of 1924. Despite the modernist distortions, this painting of Maya is suggestive of that earlier sentimental picture. The cuffs, ruffs and frills of sixteenth-century Spanish master Diego Velazquez, featured in the Paulo portrait, return here in Maya's frothy attire. They serve to define the body's pyramidal outline against the simplistic horizontal blocks of brown and white that separate the floor and wall planes."
+    },
+    {
+      "id": 4,
+      "img": "mediterranean-landscape.jpg",
+      "name": "Mediterranean Landscape",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "mediterranean-landscape",
+      "content": " Landscape painting is rare in Spanish art. This scarcity can be tied to Spanish history. The Spanish Counter-Reformation of the sixteenth century was staunchly against both classicism and humanism. Strictly interpreted Catholic doctrine viewed the subject of human nature and nature in general as corrupt and indulgent. To contemplate the beauty of nature was to indulge in a hedonistic, pagan, and heretical act.As a result, a variation in landscape painting emerged. During the second half of the sixteenth century, when El Greco came to live in Spain, a mystical and poetic current swept the nation. Instead of picturing the land as lush and inviting, artists used landscape as the setting for sacred events. In El Greco's landscapes, we can see this fire or passion. His nervous, tormented, mystical, and visionary approach to painting not only expressed the intellectual climate of his age, but centuries later it would also become a model for the next generation of Spanish painters, including Francisco Goya, Pablo Picasso, Salvador Dali, and Joan Miro.This particular piece was finished in 1952, after Picasso's cubism style was developed. The choppy shapes remind viewers of a collage, or synthetic cubism. Synthetic cubism is the use of cut paper fragments, wallpaper or newspaper, pasted into the composition. This style was developed along with Georges Braque and it analyzed objects by their shape."
+    },
+    {
+      "id": 5,
+      "img": "mother-and-child.jpg",
+      "name": "Mother and Child",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "mother-and-child",
+      "content": " The religious connotations of any picture involving a mother and child are inevitable and this iconic statement is one of a series of 'Madonnas' painted during the Blue Period. Picasso repeatedly combines the themes of religion and poverty as his development of the female figure moves away from the sexual allusions encompassed in prostitute images, to the more hallowed portrayal of the mother figure. Here the handling of space has a distinctive feel. The spatial structure is clearly defined and organized in horizontal bands crossed by the vertical lines of the upright chair. This grid-work of lines is beautifully disturbed by the gentle motion of the mother's lovingly bent head kissing the child. The flowing line is echoed in the cascading folds of the mother's wrap, redeveloped in a similar figure in La Vie (1903).      The almost monochromatic use of blue in this period, and its traditional association with the Madonna, are superbly combined to produce a set of haunting, almost ghostly images. Notably, many of the Blue Period women are bowed as if carrying a heavy emotional burden."
+    },
+    {
+      "id": 6,
+      "img": "self-portrait.jpg",
+      "name": "Self Portrait Picasso",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "the-canal-again",
+      "content": "Like El Greco and Vincent van Gogh, his illustrious predecessors in the genre, Picasso seems to have had a predilection for the self-portrait, where the external image of the man becomes infused with the subjective projection of the artist; throughout his long career he painted various likenesses of himself that reveal his progress in life and art. This Self-Portrait, painted during his second stay in Paris in the winter of 1901, was the end of a series and marked the beginning of the Blue Period. He returned to Barcelona in January 1902."
+    },
+    {
+      "id": 7,
+      "img": "olga-in-an-armchair.jpg",
+      "name": "Olga in an Armchair",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "olga-in-an-armchair",
+      "content": "  Return to Picasso's Spanish roots is significant with this stunning figurative portrait of the Ballets Russes ballerina, Olga Koklova, soon to become his first wife. As with his previous lovers, Fernande and Eva, he reinstates traditional realistic, aesthetic methods to contemplate the beauty and its relationship to art.Here, Olga serenely sits with a marmoreal, doll-like face looking down wistfully at the viewer. The wonderfully painted backdrop of the chair and the colourful, half-opened fan mitigates the severity of the black clothing and tight black hair. The blue shading around Olga's form, which throws her further into stark relief, almost seems unfinished as with the blue background that haloes around Eva in The Artist and his Model (1914). Picasso's involvement with Olga and the Ballet Russes revolutionized his life style as he started to mix with high society, following the troupe around Europe. When Apollinaire finally married in spring 1918, Picasso was inspired and married Olga in July. They honeymooned in Biarritz, feted by this social centre of aristocracy and beautiful people, and returned to Paris late September where they moved into a house in a glamorous district. The sudden death of Apollinaire from flu two days before Armistice Day shocked the arts world."
+    },
+    {
+      "id": 8,
+      "img": "paul-in-a-clown-suit.jpg",
+      "name": "Paul in a Clown Suit",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "paul-in-a-clown-suit",
+      "content": " During the early 1920s Picasso's production alternates between Cubism and a Classical style. Side by side with Cubist still lifes of the utmost structural refinement we find figural paintings in his Classical style, mostly with subjects drawn from mythology. A large number of drawings - usually pen drawings - also date from those years. In addition there are pictures of dancers and harlequins, often quite realistic, which testify to Picasso's continuing interest in the world of the ballet and the stage (which was especially kindled by his commissions for the Ballets Russes). Picasso had reached the age of forty and was now in full possession of his creative powers; the most varied impulses of his artistic will found their outlet in different styles.In addition to these works, a new kind of picture begins to appear in these same years, and Picasso discloses yet another aspect of his complex personality: the portraits and sketches of his young son Paul. With them we discover a new facet of the artist's many-sided genius. These works lay no claim to raise or to solve new artistic problems: they belong wholly to the artist's personal life, and he kept nearly all of them.      Precisely because these works were not intended to solve any formal problems but were produced casually, almost playfully, they disclose the full breadth of Picasso's technical mastery. It is precisely in the works where his eyes and hands are freest that the richness of his creative ideas is most clearly and fully disclosed."
+    },
+    {
+      "id": 9,
+      "img": "portrait-of-ambroise-vollard.jpg",
+      "name": "Portrait of Ambroise Vollard",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "portrait-of-ambroise-vollard",
+      "content": "Ambroise Vollard (1867-1939) was one of the great art dealers of the 20th century. He championed Paul Cézanne, Van Gogh, Renoir, Gauguin and Henri Matisse. He promoted Picasso's blue and rose periods, but he was careful about cubism. When Picasso later returned to a figuration informed by cubist richness and surrealist eroticism, they collaborated on one of Picasso's greatest achievements: his lubricious, mytho-erotic Vollard Suite, 100 engraved plates completed in 1937, culminating in emotional portraits of Vollard, who was to die two years later in a car crash.In Portrait of Ambroise Vollard, Vollard's downcast eyes, apparently closed, the massive explosion of his bald head, multiplying itself up the painting like an egg being broken open, his bulbous nose and the dark triangle of his beard are the first things the eye latches on to. They are recognizable. At least that's the way your mind, through habit, composes the details into information.But what head? What beard? Above Vollard's eyes is a broken architecture of shards of flesh- or brick-coloured painting; planes that have been started and stopped, as if in a slow-motion exaggerated cartoon of the movement a painter makes between looking up, recording on canvas the detail he sees, looking back. The process of the painting reveals itself with gross, physical explicitness, and in doing so, creates a kind of caricature; Picasso monstrously transfigures the aspect of Vollard's head, its massive dome, that most impresses him."
+    },
+    {
+      "id": 10,
+      "img": "portrait-of-dora-maar-1941.jpg",
+      "name": "Portrait of Dora Maar",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "portrait-of-dora-maar",
+      "content": "Dora Maar still continued to be an abiding creative and intellectual influence in Picasso's life, particularly during the early war years. Here, instead of exploring her form in oil Picasso returned to the papiers-colles days of Synthetic Cubism with this highly effective, small, square-shaped work. The dress is fashioned out of folded wallpaper and the face is drawn using gouache, with a golden leaf collage to crown her as his muse. This is mounted on corrugated board whose horizontal lines add an extra dimensional pattern and effective contrast with the chequering of the dress.The board's color is also echoed in the skin tones, which are a striking grey-blue wash, taking the color from the dress. Despite the chilling effect of this employment of colour, there is a strong sense of harmony and balance about the work. Unlike Picasso's recent return to plastic distortion, the depiction is almost naturalistic. Its proportions make the head just a little larger than life-size, so to a viewer it would be like confronting Dora face-on. However, unlike the portrait of 1937, the startling eyes look out to the horizon rather than down at the viewer. The long aquiline nose still suggests a distanced haughtiness."
+    },
+    {
+      "id": 11,
+      "img": "portrait-of-sabartes.jpg",
+      "name": "Portrait of Sabartes",
+      "excerpt": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "slug": "portrait-of-sabartes",
+      "content": "This humorous portrait of Picasso's life-long Spanish friend, secretary and chief legend-monger is a wonderful joke. In 1938, Jaime Sabartes asked Picasso to draw him as a sixteenth-century royal courtier; those original drawings were eventually turned into this oil, painted at Royan. Portraying Sabartes as a Spanish courtier to Philip II is amusing as this was the role he played in the court of Picasso; that of the loyal servant following his master from Paris to Antibes to Royan. Although Sabartes was often represented by critics as a pathetically faithful dog, Picasso no doubt respected and returned his loyalty - albeit in his own fashion.In comparison with the Sabartes portrait from 1901, one can see how far Picasso has progressed from his early days, when as young men they explored the bohemian Parisian cafe life of Montmartre. Here, the return to the recent plastic deformations of the face only serves to accentuate the ludicrous nature of the portrait and its notions of masquerade. But within the work, joker Picasso is also playing at masquerade, parodying the grand Spanish art master El Greco, who painted the Spanish courtiers of Philip II, and who was admired, like Picasso, for his revolutionary contortions"
+    }
+  ]
+}
